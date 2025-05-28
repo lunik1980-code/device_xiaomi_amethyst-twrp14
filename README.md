@@ -21,11 +21,8 @@ Camera                  | 200 MP (wide), 8 MP (ultrawide), 2 MP (macros); 20 MP 
 
 ## Features
 
-Not works:
-
-- [X] Touchscreen
-
 Works:
+- [X] Touchscreen
 - [X] ADB
 - [X] Display
 - [X] Fasbootd
@@ -34,6 +31,11 @@ Works:
 - [X] USB OTG
 - [X] Vibrator
 - [X] Decryption
+
+## Gratitude
+
+Thanks Nebrassy for the tips and the basis for the device tree.
+https://github.com/nebrassy
 
 ## Building
 
