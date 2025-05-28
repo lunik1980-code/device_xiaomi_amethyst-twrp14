@@ -137,6 +137,3 @@ PRODUCT_PROPERTY_OVERRIDES += persist.sys.fuse.passthrough.enable=true
 PRODUCT_PACKAGES += \
     amethyst_modules
 #
-
-
-
