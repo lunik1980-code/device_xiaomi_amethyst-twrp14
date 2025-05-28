@@ -40,6 +40,7 @@ Works:
 _Lunch_ command :
 
 ```
-lunch twrp_amethyst-eng && mka adbd recoveryimage
+. build/envsetup.sh && lunch twrp_amethyst-ap2a-eng && mka adbd recoveryimage
+
 ```
 
